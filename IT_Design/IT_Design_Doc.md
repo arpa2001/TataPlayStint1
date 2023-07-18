@@ -36,4 +36,4 @@ The solution to this problem statement is creating custom crawlers that can fetc
 - Fields will be uploaded to backend using Simplify360 API syntax.
 - Following diagram shares the code flow:  
 
-    ![Workflow](https://raw.githubusercontent.com/arpa2001/TataPlayStint1/main/IT_Design.jpg)
+    ![Workflow](https://raw.githubusercontent.com/arpa2001/TataPlayStint1/main/IT_Design/IT_Design-WorkflowJPG.jpg)
