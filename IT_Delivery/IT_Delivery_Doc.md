@@ -5,8 +5,9 @@ This is a representation of the delivery process for the design of custom crawle
 ## Approach
 
 - Use of Quarkus framework to add dependencies for Gson and Jsoup libraries.  
-    Gson library helps converting a Data-Structure to a `.json` file.
+    Gson library helps converting a Data-Structure to a `.json` file.  
     Jsoup library helps fetching source code of a given URI.
+
 - Using Maven under the Quarkus framework for adding the dependencies.
 
 ## Workflow
