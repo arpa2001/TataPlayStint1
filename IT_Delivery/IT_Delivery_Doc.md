@@ -26,11 +26,11 @@ For this custom crawler, the valid sites to crawl in _(for now)_ are as follows:
 
 - Flow of Tata Play Social CRM (by [Mahesh K. Bhat](mailto:mahesh.bhatk@tataplay.com)):
 
-  ![Tata Play Social CRM](https://raw.githubusercontent.com/arpa2001/TataPlayStint1/main/IT_Delivery/TataPlaySocialCRMPNG.png)
+  ![Tata Play Social CRM](TataPlaySocialCRMPNG.png)
 
 - Flow of IT Delivery for this version:
 
-  ![IT Delivery flow](https://raw.githubusercontent.com/arpa2001/TataPlayStint1/main/IT_Delivery/IT_Delivery-WorkflowJPG.jpg)
+  ![IT Delivery flow](IT_Delivery-WorkflowJPG.jpg)
 
 ### Code
 
