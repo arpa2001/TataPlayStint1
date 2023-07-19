@@ -47,23 +47,23 @@ In our use case we are using crawlers to fetch URI indicated data from given web
 
 - Following diagram shares the code flow:
 
-    ![Workflow](IT_Design-WorkflowJPG.jpg)
+  ![Workflow](IT_Design-WorkflowJPG.jpg)
 
 - For the step "Fetching a Complaint in the URI" in the above flowchart, make sure to identify every complaint with a unique field that will be provided from the website.
 
 - Codes should create `.json` file in the following format:
 
-    |Parameter|Description|Type|
-    |---|---|:---:|
-    |name|Customer Name (or ID)|Str|
-    |message|Review Description Text|Str|
-    |title|Review Title|Str|
-    |postId|Review ID|Str|
-    |postLink|Review Link|Str|
-    |createdOnGMTDate|Date of Creation|Date (ISO8601)|
-    |updatedOnGMTDate|Date of update|Date (ISO8601)|
-    |sourceId|`rv` (constant value)|Str|
-    |s_sourceName|`variable value`|Str|
+  |Parameter|Description|Type|
+  |---|---|:---:|
+  |name|Customer Name (or ID)|Str|
+  |message|Review Description Text|Str|
+  |title|Review Title|Str|
+  |postId|Review ID|Str|
+  |postLink|Review Link|Str|
+  |createdOnGMTDate|Date of Creation|Date (ISO8601)|
+  |updatedOnGMTDate|Date of update|Date (ISO8601)|
+  |sourceId|`rv` (constant value)|Str|
+  |s_sourceName|`variable value`|Str|
 
 - Fields will be uploaded to Social CRM using S360 API syntax.
 
