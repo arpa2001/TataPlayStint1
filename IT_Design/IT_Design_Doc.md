@@ -45,11 +45,13 @@ In our use case we are using crawlers to fetch URI indicated data from given web
 
 ## Workflow
 
-- Following diagram shares the code flow:  
+- Following diagram shares the code flow:
 
     ![Workflow](IT_Design-WorkflowJPG.jpg)
 
-- Codes should create `.json` file in the following format:  
+- For the step "Fetching a Complaint in the URI" in the above flowchart, make sure to identify every complaint with a unique field that will be provided from the website.
+
+- Codes should create `.json` file in the following format:
 
     |Parameter|Description|Type|
     |---|---|:---:|
