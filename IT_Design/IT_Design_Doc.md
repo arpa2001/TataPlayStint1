@@ -18,6 +18,10 @@ The solution to this problem statement is creating custom crawlers that can fetc
 
 ## Workflow
 
+- Following diagram shares the code flow:  
+
+    ![Workflow](IT_Design-WorkflowJPG.jpg)
+
 - Codes ready in `.java` format
 - Codes create `.json` file in the following format:  
 
@@ -33,7 +37,4 @@ The solution to this problem statement is creating custom crawlers that can fetc
     |sourceId|`rv` (constant value)|Str|
     |s_sourceName|`variable value`|Str|
 
-- Fields will be uploaded to backend using Simplify360 API syntax.
-- Following diagram shares the code flow:  
-
-    ![Workflow](https://raw.githubusercontent.com/arpa2001/TataPlayStint1/main/IT_Design/IT_Design-WorkflowJPG.jpg)
+- Fields will be uploaded to Social CRM using Simplify360 API syntax.
