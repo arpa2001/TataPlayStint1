@@ -43,7 +43,7 @@ The departments flow in the following order:
 - Any failure or update from the business process is called out to implementation.
 - The updated changes are verified again until all considered test cases (that can be thought of) are passed by the implemented feature.
 
-_**Note**: This phase is the reason for our IT process to be an agile flow_
+_**Note**: This phase is the reason for our IT process to be an agile flow._
 
 ## 6. Deployment
 
